@@ -48,6 +48,6 @@ let messages = [
     date: "15/7/2023",
     msg: "good dance",
     lke: 3000
-,}
+},
 ]
 console.log(messages[1].msg) // >> good dance
